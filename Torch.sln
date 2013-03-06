@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Torch", "Application\Torch.vcproj", "{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "TorchCab", "Cab\TorchCAB\TorchCAB.vddproj", "{6359F133-0A04-4544-80FE-C8B47F37AE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Smartphone 2003 (ARMV4) = Debug|Smartphone 2003 (ARMV4)
+		Release|Smartphone 2003 (ARMV4) = Release|Smartphone 2003 (ARMV4)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Debug|Smartphone 2003 (ARMV4).ActiveCfg = Debug|Smartphone 2003 (ARMV4)
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Debug|Smartphone 2003 (ARMV4).Build.0 = Debug|Smartphone 2003 (ARMV4)
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Debug|Smartphone 2003 (ARMV4).Deploy.0 = Debug|Smartphone 2003 (ARMV4)
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Release|Smartphone 2003 (ARMV4).ActiveCfg = Release|Smartphone 2003 (ARMV4)
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Release|Smartphone 2003 (ARMV4).Build.0 = Release|Smartphone 2003 (ARMV4)
+		{CC25CD21-9E37-4934-BC21-3EB2FF9DC5B2}.Release|Smartphone 2003 (ARMV4).Deploy.0 = Release|Smartphone 2003 (ARMV4)
+		{6359F133-0A04-4544-80FE-C8B47F37AE4B}.Debug|Smartphone 2003 (ARMV4).ActiveCfg = Debug
+		{6359F133-0A04-4544-80FE-C8B47F37AE4B}.Release|Smartphone 2003 (ARMV4).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
